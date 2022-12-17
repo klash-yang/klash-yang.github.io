@@ -26,6 +26,7 @@ IT governance for physical, virtual and cloud environments
 - Job Description:
     -  Refactor scheduler service with reactive programming
     -  Migrating our product from singleton system to k8s cluster
+    -  BFF Pattern middleware development
     -  SDK auto generator development
     -  User support assist system design and development
     -  Log management system development
