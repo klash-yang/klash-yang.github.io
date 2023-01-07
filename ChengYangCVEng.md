@@ -6,9 +6,8 @@
  - Github：https://github.com/klash-yang
  
 # Contract
- <!-- ![QQ图片20150416162734.jpg](https://i.loli.net/2019/09/01/f9EaknXKTGFo6RV.jpg)       -->
-- Email：leaveycalone@gmail.com
-- Phone：13816009156
+ - Email：leaveycalone@gmail.com
+ - Phone：13816009156
 
 # Educational Background
  - Bachelor/ East China University of Science Technology (2012-2016)
@@ -16,7 +15,7 @@
 
 # Working Experience
 
-## Dell EMC （ 11/2019 - now ）
+## Dell EMC （11/2019-now）
 
 ### PowerProtect Data Manager Software
 
@@ -32,7 +31,7 @@ IT governance for physical, virtual and cloud environments
     -  User support assist system design and development
     -  Log management system development
 
-## PwC （ 09/2018 - 11/2019 ）
+## PwC （09/2018-11/2019）
 
 ### DIDI Tax System
 - Project Description: Tax management for DIDI company, consists of a website client and a mobile chart page. Including invoice management, order management, permission managemet and some other daily tax business. Docking with Tableau to display the charts actively.
@@ -49,7 +48,7 @@ IT governance for physical, virtual and cloud environments
     -  Structure plan, develop management, system integration and deploy
     -  Admin and Permission module development, system admin can control permission of each user, including page, function, button, etc
 
-## UBS（ 09/2017 - 09/2018 ）
+## UBS（09/2017-09/2018）
 
 ### Job Description:  
 - Create web crawl bot with Kapow, crawl product and price information from global large E-commercial sites (Amazon, Jingdong, etc)
@@ -57,7 +56,7 @@ IT governance for physical, virtual and cloud environments
 - Analysis market tendency based on scraped data 
 - Design the structure of store system 
 
-## Shang Instituion of Data processing technology（ 10/2016/10 – 07/2017 ）
+## Shang Instituion of Data processing technology（10/2016/10–07/2017）
 
 ### Job Description:  
 - Create front with Bootstrap 
