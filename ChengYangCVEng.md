@@ -1,7 +1,7 @@
 <!-- https://cv.ftqq.com/ -->
 # Personal Info
 
- - Cheng Yang/ Male/ 1994 
+ - Cheng Yang/ Male
  - Working Experience：7 years
  - Github：https://github.com/klash-yang
  
@@ -10,8 +10,8 @@
  - Phone：13816009156
 
 # Educational Background
- - Bachelor/ East China University of Science and Technology (2012-2016)
- - Bachelor/ Technische Hochschule Lübeck (Germany, Cooperative project With ECUST) (2015-2016)
+ - Bachelor/ East China University of Science and Technology
+ - Bachelor/ Technische Hochschule Lübeck (Germany, Cooperative project With ECUST)
 
 # Working Experience
 
