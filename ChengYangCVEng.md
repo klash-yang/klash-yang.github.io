@@ -10,7 +10,7 @@
  - Phone：13816009156
 
 # Educational Background
- - Bachelor/ East China University of Science Technology (2012-2016)
+ - Bachelor/ East China University of Science and Technology (2012-2016)
  - Bachelor/ Technische Hochschule Lübeck (Germany, Cooperative project With ECUST) (2015-2016)
 
 # Working Experience
