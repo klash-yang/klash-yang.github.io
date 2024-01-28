@@ -1,7 +1,7 @@
 # Personal Info  
   
 - Cheng Yang/ Male  
-- Work Experience：7 years  
+- Years of Experience：7 
 - Github：https://github.com/klash-yang  
   
 # Contact  
@@ -11,11 +11,11 @@
   
 # Educational Background  
   
-- Master's Degree Candidate/ Georgia Institute of Technology (Computer Science)   2022-
-- Bachelor's Degree/ Technische Hochschule Lübeck (Information Technology)  2015-2016
-- Bachelor's Degree/ East China University of Science and Technology (Electrical Engineering)  2012-2016
+- 2022-Now Master's Degree Candidate/ Georgia Institute of Technology (Computer Science)   
+- 2015-2016 Bachelor's Degree/ Technische Hochschule Lübeck (Information Technology)  2015-2016
+- 2012-2016 Bachelor's Degree/ East China University of Science and Technology (Electrical Engineering)  
   
-# Work Experience  
+# Working Experience  
   
 ## Dell EMC (11/2019-Present)  
   
