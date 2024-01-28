@@ -11,9 +11,9 @@
   
 # Educational Background  
   
-- Master's Degree Candidate/ Georgia Institute of Technology (Computer Science)
-- Bachelor's Degree/ Technische Hochschule Lübeck (Information Technology)  
-- Bachelor's Degree/ East China University of Science and Technology (Electrical Engineering)  
+- Master's Degree Candidate/ Georgia Institute of Technology (Computer Science)   2022-
+- Bachelor's Degree/ Technische Hochschule Lübeck (Information Technology)  2015-2016
+- Bachelor's Degree/ East China University of Science and Technology (Electrical Engineering)  2012-2016
   
 # Work Experience  
   
